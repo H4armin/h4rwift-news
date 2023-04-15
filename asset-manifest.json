@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/h4rwift-news/static/css/main.b2e4fffa.css",
+    "main.js": "/h4rwift-news/static/js/main.69d0b603.js",
+    "static/media/earth_moon_transit_121207_1280x720.jpg": "/h4rwift-news/static/media/earth_moon_transit_121207_1280x720.fbb4b9bfcd6a4c47daba.jpg",
+    "static/media/image-removebg-preview.png": "/h4rwift-news/static/media/image-removebg-preview.561416230695ebb9bc55.png",
+    "index.html": "/h4rwift-news/index.html",
+    "main.b2e4fffa.css.map": "/h4rwift-news/static/css/main.b2e4fffa.css.map",
+    "main.69d0b603.js.map": "/h4rwift-news/static/js/main.69d0b603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2e4fffa.css",
+    "static/js/main.69d0b603.js"
+  ]
+}
